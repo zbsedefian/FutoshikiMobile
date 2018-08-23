@@ -1,0 +1,3 @@
+rootProject.name = 'futoshikim'
+
+include ':app'
